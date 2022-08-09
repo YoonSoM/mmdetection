@@ -1,0 +1,26 @@
+{
+    "os": "Linux-5.15.0-1015-aws-x86_64-with-glibc2.10",
+    "python": "3.8.13",
+    "heartbeatAt": "2022-08-09T08:45:45.374824",
+    "startedAt": "2022-08-09T08:45:44.987654",
+    "docker": null,
+    "gpu": "NVIDIA A10G",
+    "gpu_count": 1,
+    "cpu_count": 4,
+    "cuda": null,
+    "args": [
+        "/home/ubuntu/test/mmdetection/configs/1A_my_py/final.py"
+    ],
+    "state": "running",
+    "program": "/home/ubuntu/test/mmdetection/configs/tools/train.py",
+    "codePath": "configs/tools/train.py",
+    "git": {
+        "remote": "https://github.com/open-mmlab/mmdetection.git",
+        "commit": "3b72b12fe9b14de906d1363982b9fba05e7d47c1"
+    },
+    "email": null,
+    "root": "/home/ubuntu/test/mmdetection",
+    "host": "ip-172-31-93-139",
+    "username": "ubuntu",
+    "executable": "/home/ubuntu/.conda/envs/somi/bin/python"
+}
